@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cristianorellana" alt="cristianorellana" /></a> </p>
 
-- 🔭 I’m currently working onfinal project to graduate from a computer science degreer **FieldShop**
+- 🔭 I’m currently working on final project to graduate from a computer science degreer **FieldShop**
 
 - 🌱 I’m currently learning **Java, JavScript, NodeJS,ExpressJS...**
 
